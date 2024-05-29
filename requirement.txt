@@ -1,0 +1,3 @@
+pip install -q transformers
+pip install -q youtube_transcript_api
+Hugging Face Transformers simulation
